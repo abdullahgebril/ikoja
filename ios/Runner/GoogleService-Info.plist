@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>478125196570-825p9neg1kare1ncmeifrdthce0m0btg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.478125196570-825p9neg1kare1ncmeifrdthce0m0btg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGCjR1EJxHxqajerjjoXRB9x9OfMX6IWE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>478125196570</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>abdullahgebreil.deliveryfood</string>
+	<key>PROJECT_ID</key>
+	<string>ikoja-restaurant</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ikoja-restaurant.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:478125196570:ios:d30b6dcdc3178ce6d658a3</string>
+	<key>DATABASE_URL</key>
+	<string>https://ikoja-restaurant.firebaseio.com</string>
+</dict>
+</plist>

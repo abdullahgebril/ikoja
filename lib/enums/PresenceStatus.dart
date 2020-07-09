@@ -1,0 +1,1 @@
+enum PresenceStatus { LOADING, ACTIVATED, DEACTIVATED }

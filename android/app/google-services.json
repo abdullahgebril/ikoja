@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478125196570",
+    "firebase_url": "https://ikoja-restaurant.firebaseio.com",
+    "project_id": "ikoja-restaurant",
+    "storage_bucket": "ikoja-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478125196570:android:9900b1540ac172bfd658a3",
+        "android_client_info": {
+          "package_name": "ikoja.deliveryfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478125196570-ffhffh4pp4epdvidb6fgh2mh37hri83g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf1H_iFlG57ueYjMK51vxQ4Ks7IQgQ6iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478125196570-ffhffh4pp4epdvidb6fgh2mh37hri83g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="android/app" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-0.4.8+2/android/connectivity.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-0.4.8+2/android/connectivity.iml" group="android/connectivity" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.1.0+2/android/connectivity_macos.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.1.0+2/android/connectivity_macos.iml" group="android/connectivity_macos" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-6.0.13/android/firebase_messaging.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-6.0.13/android/firebase_messaging.iml" group="android/firebase_messaging" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_login-3.0.0/android/flutter_facebook_login.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_login-3.0.0/android/flutter_facebook_login.iml" group="android/flutter_facebook_login" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.6/android/flutter_plugin_android_lifecycle.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.6/android/flutter_plugin_android_lifecycle.iml" group="android/flutter_plugin_android_lifecycle" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_ringtone_player-2.0.0/android/flutter_ringtone_player.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_ringtone_player-2.0.0/android/flutter_ringtone_player.iml" group="android/flutter_ringtone_player" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/geocoder-0.2.1/android/geocoder.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/geocoder-0.2.1/android/geocoder.iml" group="android/geocoder" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.26+1/android/google_maps_flutter.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.26+1/android/google_maps_flutter.iml" group="android/google_maps_flutter" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/location-3.0.2/android/location.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/location-3.0.2/android/location.iml" group="android/location" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/location_web-1.0.0/android/location_web.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/location_web-1.0.0/android/location_web.iml" group="android/location_web" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/share-0.6.4/android/share.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/share-0.6.4/android/share.iml" group="android/share" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.6+3/android/shared_preferences.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.6+3/android/shared_preferences.iml" group="android/shared_preferences" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+6/android/shared_preferences_macos.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+6/android/shared_preferences_macos.iml" group="android/shared_preferences_macos" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+4/android/shared_preferences_web.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+4/android/shared_preferences_web.iml" group="android/shared_preferences_web" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.5/android/url_launcher.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.5/android/url_launcher.iml" group="android/url_launcher" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+5/android/url_launcher_macos.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+5/android/url_launcher_macos.iml" group="android/url_launcher_macos" />
+      <module fileurl="file://E:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.1+1/android/url_launcher_web.iml" filepath="E:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.1+1/android/url_launcher_web.iml" group="android/url_launcher_web" />
+    </modules>
+  </component>
+</project>
